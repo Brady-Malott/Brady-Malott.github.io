@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.41ea3c6b.chunk.css",
-    "main.js": "/static/js/main.c3ca70e2.chunk.js",
-    "main.js.map": "/static/js/main.c3ca70e2.chunk.js.map",
+    "main.css": "/static/css/main.cab72a05.chunk.css",
+    "main.js": "/static/js/main.af6b0ba4.chunk.js",
+    "main.js.map": "/static/js/main.af6b0ba4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fff0ae.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fff0ae.js.map",
     "static/css/2.2aa38b9c.chunk.css": "/static/css/2.2aa38b9c.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.e1c3f599.chunk.js.map": "/static/js/3.e1c3f599.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.2aa38b9c.chunk.css.map": "/static/css/2.2aa38b9c.chunk.css.map",
-    "static/css/main.41ea3c6b.chunk.css.map": "/static/css/main.41ea3c6b.chunk.css.map",
+    "static/css/main.cab72a05.chunk.css.map": "/static/css/main.cab72a05.chunk.css.map",
     "static/js/2.cb9b9200.chunk.js.LICENSE.txt": "/static/js/2.cb9b9200.chunk.js.LICENSE.txt",
     "static/media/airfighter.png": "/static/media/airfighter.f6b5f7f2.png",
     "static/media/algorithms_visualizer.png": "/static/media/algorithms_visualizer.4a4d77df.png",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.e5fff0ae.js",
     "static/css/2.2aa38b9c.chunk.css",
     "static/js/2.cb9b9200.chunk.js",
-    "static/css/main.41ea3c6b.chunk.css",
-    "static/js/main.c3ca70e2.chunk.js"
+    "static/css/main.cab72a05.chunk.css",
+    "static/js/main.af6b0ba4.chunk.js"
   ]
 }
