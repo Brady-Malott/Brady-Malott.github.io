@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Brady-Malott.github.io/static/css/main.f5810186.css",
-    "main.js": "/Brady-Malott.github.io/static/js/main.bb4f01a2.js",
-    "static/js/787.551d3331.chunk.js": "/Brady-Malott.github.io/static/js/787.551d3331.chunk.js",
-    "static/media/portrait.png": "/Brady-Malott.github.io/static/media/portrait.c0966f632fc6101e71c2.png",
-    "static/media/hero.jpg": "/Brady-Malott.github.io/static/media/hero.b5f170927db687643a3c.jpg",
-    "static/media/snake.png": "/Brady-Malott.github.io/static/media/snake.cd85fa9f2c739dc8ed74.png",
-    "static/media/vendor_search.jpg": "/Brady-Malott.github.io/static/media/vendor_search.84d055dbc4011d66db55.jpg",
-    "static/media/UTable.png": "/Brady-Malott.github.io/static/media/UTable.004d5c6f424a00292329.png",
-    "static/media/algorithms_visualizer.png": "/Brady-Malott.github.io/static/media/algorithms_visualizer.4a4d77df5813652097e6.png",
-    "static/media/sudoku.png": "/Brady-Malott.github.io/static/media/sudoku.f14acd806f165f2f2f27.png",
-    "static/media/gear.png": "/Brady-Malott.github.io/static/media/gear.e8935cc64328c185b1c5.png",
-    "static/media/airfighter.png": "/Brady-Malott.github.io/static/media/airfighter.f6b5f7f2ba45a031eaa3.png",
-    "static/media/pictochat.png": "/Brady-Malott.github.io/static/media/pictochat.2a85a458a3fcda761d8e.png",
-    "index.html": "/Brady-Malott.github.io/index.html",
-    "main.f5810186.css.map": "/Brady-Malott.github.io/static/css/main.f5810186.css.map",
-    "main.bb4f01a2.js.map": "/Brady-Malott.github.io/static/js/main.bb4f01a2.js.map",
-    "787.551d3331.chunk.js.map": "/Brady-Malott.github.io/static/js/787.551d3331.chunk.js.map"
+    "main.css": "/static/css/main.f5810186.css",
+    "main.js": "/static/js/main.16a8095b.js",
+    "static/js/787.551d3331.chunk.js": "/static/js/787.551d3331.chunk.js",
+    "static/media/portrait.png": "/static/media/portrait.c0966f632fc6101e71c2.png",
+    "static/media/hero.jpg": "/static/media/hero.b5f170927db687643a3c.jpg",
+    "static/media/snake.png": "/static/media/snake.cd85fa9f2c739dc8ed74.png",
+    "static/media/vendor_search.jpg": "/static/media/vendor_search.84d055dbc4011d66db55.jpg",
+    "static/media/UTable.png": "/static/media/UTable.004d5c6f424a00292329.png",
+    "static/media/algorithms_visualizer.png": "/static/media/algorithms_visualizer.4a4d77df5813652097e6.png",
+    "static/media/sudoku.png": "/static/media/sudoku.f14acd806f165f2f2f27.png",
+    "static/media/gear.png": "/static/media/gear.e8935cc64328c185b1c5.png",
+    "static/media/airfighter.png": "/static/media/airfighter.f6b5f7f2ba45a031eaa3.png",
+    "static/media/pictochat.png": "/static/media/pictochat.2a85a458a3fcda761d8e.png",
+    "index.html": "/index.html",
+    "main.f5810186.css.map": "/static/css/main.f5810186.css.map",
+    "main.16a8095b.js.map": "/static/js/main.16a8095b.js.map",
+    "787.551d3331.chunk.js.map": "/static/js/787.551d3331.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5810186.css",
-    "static/js/main.bb4f01a2.js"
+    "static/js/main.16a8095b.js"
   ]
 }
