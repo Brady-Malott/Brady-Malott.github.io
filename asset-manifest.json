@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c13a112.css",
-    "main.js": "/static/js/main.66742fd4.js",
+    "main.css": "/static/css/main.0cf1c350.css",
+    "main.js": "/static/js/main.dbf563c1.js",
     "static/js/787.551d3331.chunk.js": "/static/js/787.551d3331.chunk.js",
     "static/media/portrait.png": "/static/media/portrait.c0966f632fc6101e71c2.png",
     "static/media/hero.jpg": "/static/media/hero.b5f170927db687643a3c.jpg",
@@ -11,15 +11,16 @@
     "static/media/algo-insight.png": "/static/media/algo-insight.4a4d77df5813652097e6.png",
     "static/media/sudoku.png": "/static/media/sudoku.f14acd806f165f2f2f27.png",
     "static/media/gear.png": "/static/media/gear.e8935cc64328c185b1c5.png",
+    "static/media/bamjam.jpg": "/static/media/bamjam.42c48c90699498ef603c.jpg",
     "static/media/airfighter.png": "/static/media/airfighter.f6b5f7f2ba45a031eaa3.png",
     "static/media/pictochat.png": "/static/media/pictochat.2a85a458a3fcda761d8e.png",
     "index.html": "/index.html",
-    "main.4c13a112.css.map": "/static/css/main.4c13a112.css.map",
-    "main.66742fd4.js.map": "/static/js/main.66742fd4.js.map",
+    "main.0cf1c350.css.map": "/static/css/main.0cf1c350.css.map",
+    "main.dbf563c1.js.map": "/static/js/main.dbf563c1.js.map",
     "787.551d3331.chunk.js.map": "/static/js/787.551d3331.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c13a112.css",
-    "static/js/main.66742fd4.js"
+    "static/css/main.0cf1c350.css",
+    "static/js/main.dbf563c1.js"
   ]
 }
