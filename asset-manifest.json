@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-deploy/static/css/main.f5810186.css",
-    "main.js": "/portfolio-deploy/static/js/main.be3094dd.js",
-    "static/js/787.551d3331.chunk.js": "/portfolio-deploy/static/js/787.551d3331.chunk.js",
-    "static/media/portrait.png": "/portfolio-deploy/static/media/portrait.c0966f632fc6101e71c2.png",
-    "static/media/hero.jpg": "/portfolio-deploy/static/media/hero.b5f170927db687643a3c.jpg",
-    "static/media/snake.png": "/portfolio-deploy/static/media/snake.cd85fa9f2c739dc8ed74.png",
-    "static/media/vendor_search.jpg": "/portfolio-deploy/static/media/vendor_search.84d055dbc4011d66db55.jpg",
-    "static/media/UTable.png": "/portfolio-deploy/static/media/UTable.004d5c6f424a00292329.png",
-    "static/media/algorithms_visualizer.png": "/portfolio-deploy/static/media/algorithms_visualizer.4a4d77df5813652097e6.png",
-    "static/media/sudoku.png": "/portfolio-deploy/static/media/sudoku.f14acd806f165f2f2f27.png",
-    "static/media/gear.png": "/portfolio-deploy/static/media/gear.e8935cc64328c185b1c5.png",
-    "static/media/airfighter.png": "/portfolio-deploy/static/media/airfighter.f6b5f7f2ba45a031eaa3.png",
-    "static/media/pictochat.png": "/portfolio-deploy/static/media/pictochat.2a85a458a3fcda761d8e.png",
-    "index.html": "/portfolio-deploy/index.html",
-    "main.f5810186.css.map": "/portfolio-deploy/static/css/main.f5810186.css.map",
-    "main.be3094dd.js.map": "/portfolio-deploy/static/js/main.be3094dd.js.map",
-    "787.551d3331.chunk.js.map": "/portfolio-deploy/static/js/787.551d3331.chunk.js.map"
+    "main.css": "/Brady-Malott.github.io/static/css/main.f5810186.css",
+    "main.js": "/Brady-Malott.github.io/static/js/main.bb4f01a2.js",
+    "static/js/787.551d3331.chunk.js": "/Brady-Malott.github.io/static/js/787.551d3331.chunk.js",
+    "static/media/portrait.png": "/Brady-Malott.github.io/static/media/portrait.c0966f632fc6101e71c2.png",
+    "static/media/hero.jpg": "/Brady-Malott.github.io/static/media/hero.b5f170927db687643a3c.jpg",
+    "static/media/snake.png": "/Brady-Malott.github.io/static/media/snake.cd85fa9f2c739dc8ed74.png",
+    "static/media/vendor_search.jpg": "/Brady-Malott.github.io/static/media/vendor_search.84d055dbc4011d66db55.jpg",
+    "static/media/UTable.png": "/Brady-Malott.github.io/static/media/UTable.004d5c6f424a00292329.png",
+    "static/media/algorithms_visualizer.png": "/Brady-Malott.github.io/static/media/algorithms_visualizer.4a4d77df5813652097e6.png",
+    "static/media/sudoku.png": "/Brady-Malott.github.io/static/media/sudoku.f14acd806f165f2f2f27.png",
+    "static/media/gear.png": "/Brady-Malott.github.io/static/media/gear.e8935cc64328c185b1c5.png",
+    "static/media/airfighter.png": "/Brady-Malott.github.io/static/media/airfighter.f6b5f7f2ba45a031eaa3.png",
+    "static/media/pictochat.png": "/Brady-Malott.github.io/static/media/pictochat.2a85a458a3fcda761d8e.png",
+    "index.html": "/Brady-Malott.github.io/index.html",
+    "main.f5810186.css.map": "/Brady-Malott.github.io/static/css/main.f5810186.css.map",
+    "main.bb4f01a2.js.map": "/Brady-Malott.github.io/static/js/main.bb4f01a2.js.map",
+    "787.551d3331.chunk.js.map": "/Brady-Malott.github.io/static/js/787.551d3331.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5810186.css",
-    "static/js/main.be3094dd.js"
+    "static/js/main.bb4f01a2.js"
   ]
 }
